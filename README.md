@@ -1,2 +1,4 @@
 # Ex_Dart
-Alguns conceitos sobre orientação a objeto com a Linguagem Dart
+Alguns conceitos em exercícios sobre orientação a objeto com a Linguagem Dart
+
+
