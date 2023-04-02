@@ -6,6 +6,6 @@ Formação Dart_Alura<br/>
 #Aprender como o paradigma de orientação a objetos se aplica ao Dart;<br/>
 #Entender melhor sobre as quetões de sintaxe e dinamismo na linguagem de programação;<br/>
 #Conhecer as exceções e como lidar com elas;<br/>
-#Aprender sobre sincronismo no Dart.
+#Aprender sobre sincronismo e assíncronismo no Dart.
 
 
